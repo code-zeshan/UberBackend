@@ -1,0 +1,4 @@
+{
+    "DB_URL":"mongodb+srv://zeshancode:zeshancode@zeshancode.1u1ir.mongodb.net/Uber",
+    "PORT":5001
+}
